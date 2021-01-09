@@ -1,2 +1,12 @@
 Jarrett Ratelle's User Page
-My favorite language is C++ simply because I understand it best.
+
+# '"Without music, life would be a mistake." -Friedrich Nietzsche'
+
+```C++
+struct Info {
+    string email = "jratelle@ucsd.edu";
+    string interests = "DSP + Music";
+    string languages = "C++, Python, Matlab";
+}```
+
+
