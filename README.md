@@ -25,4 +25,4 @@ Some of my hobbies:
 - [x] Get an internship
 - [] Get an internship related to my interests
 - [] Get comfortable with Github
-- [] Get covid (subject to change)
+- [x] Get covid (subject to change)
